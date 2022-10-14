@@ -2,7 +2,7 @@
 
 ## I like to do nodes and testing 👨‍💻
 
-## I have been testing since 2019 and participated in many testnets!
+## I have been testing since 2019 and participated in many testnets ⌛
 
 <!--
 **AntNodes/AntNodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
