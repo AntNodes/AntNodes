@@ -1,4 +1,4 @@
-# Hello im SINNER 👋
+<h1 align="center"># 👋 Hello im SINNER </h1>
 
 ## I love running nodes and testing, monitoring 24/7 👨‍💻
 
