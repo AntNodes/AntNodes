@@ -10,7 +10,9 @@
 ## I have been testing since 2019 and participated in many testnets ⌛
 </p>
 
-[<summary><h2>🖥My TESTNET</h2></summary>](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+<details align="left">
+    [<summary><h2><b>🖥My TESTNET</b></h2></summary>](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+
 
 [<h2>📋My it manuals]()
 <details align="left">
