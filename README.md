@@ -1,6 +1,6 @@
 # HELLO im SINNER 👋
 
-## I like to do nodes and testing 👨‍💻
+## I love creating nodes and testing, monitoring 24/7 👨‍💻
 
 ## I have been testing since 2019 and participated in many testnets ⌛
 
