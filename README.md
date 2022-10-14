@@ -1,5 +1,5 @@
 <h1 align="center"># 👋 Hello im SINNER </h1>
-
+</p>
 
 <p align="center">
 <img width="600" src="AntNodes/github-snake.gif" alt="snake"/>
