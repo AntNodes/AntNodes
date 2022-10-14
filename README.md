@@ -11,6 +11,6 @@
 
 ## [🖥My TESTNET](https://github.com/AntNodes/MY-TESTNET)
 
-## [📋My it manuals]()
+## [📋My MANUALS]()
 
 </p>
