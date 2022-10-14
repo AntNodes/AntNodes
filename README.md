@@ -1,7 +1,8 @@
 <h1 align="center"># 👋 Hello im SINNER </h1>
 </p>
+
 <p align="center">
-<img width="600" src="AntNodes/github-snake.gif" alt="snake"/>
+<img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 ## I love running nodes and testing, monitoring 24/7 👨‍💻
