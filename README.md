@@ -9,6 +9,11 @@
 
 ## I have been testing since 2019 and participated in many testnets ⌛
 
+[<h2>🖥My TESTNET</h2>](https://github.com/AntNodes/MY-TESTNET/blob/main/README.md)
+[<h2>📋My it manuals]()
+<details align="left">
+  <summary><h2><b>⭐GitHub stats</b></h2></summary>
+
 <!--
 **AntNodes/AntNodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
