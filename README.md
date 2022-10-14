@@ -1,4 +1,4 @@
-# HELLO im SINNER 👋
+# Hello im SINNER 👋
 
 ## I love running nodes and testing, monitoring 24/7 👨‍💻
 
