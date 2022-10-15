@@ -9,8 +9,8 @@
 
 ## I have been testing since 2019 and participated in many testnets ⌛
 
-## Contact  <a href="https://discord.com/users/863083870626250812"><img src="https://img.shields.io/badge/-DISCORD-purple?style=flat&logo=DISCORD&logoColor=white"/><DISCORD HANDLE SINNER#4034></a> 
-DISCORD HANDLE SINNER#4034
+## Contact  <a href="https://discord.com/users/863083870626250812"><img src="https://img.shields.io/badge/-DISCORD-purple?style=flat&logo=DISCORD&logoColor=white"/>DISCORD HANDLE SINNER#4034 </a> 
+
 <br>
 
 ## [🖥My TESTNETS](https://github.com/AntNodes/MY-TESTNET)
