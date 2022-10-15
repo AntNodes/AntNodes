@@ -17,7 +17,7 @@
 
 ## [🌐&nbsp;My MAINNETS](https://github.com/AntNodes/MY-MAINNETS)
 
-## [📋&nbsp;My MANUALS](https://github.com/AntNodes/MY-MANUALS)
+## [📋&nbsp;MANUALS](https://github.com/AntNodes/MY-MANUALS)
 
 ## [⚙ •SNAPSHOTS •ADDRBOOK •PEER •STATESYNC](https://github.com/AntNodes/MY-SNAPSHOTS)
 
