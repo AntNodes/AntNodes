@@ -9,7 +9,7 @@
 
 ## I have been testing since 2019 and participated in many testnets ⌛
 
-## Contact &nbsp;<a href="https://discord.com/users/863083870626250812"><img src="https://img.shields.io/badge/-DISCORD-purple?style=flat&logo=DISCORD&logoColor=white"/></a> 
+## Contact &nbsp;&nbsp;<a href="https://discord.com/users/863083870626250812"><img src="https://img.shields.io/badge/-DISCORD-purple?style=flat&logo=DISCORD&logoColor=white"/></a> 
 
 <br>
 
@@ -19,6 +19,6 @@
 
 ## &nbsp;[📋My MANUALS](https://github.com/AntNodes/MY-MANUALS)
 
-## &nbsp;[⚙ •SNAPSHOTS •ADDRBOOK •PEER •STATESYNC](https://github.com/AntNodes/MY-SNAPSHOTS)
+## [⚙ •SNAPSHOTS •ADDRBOOK •PEER •STATESYNC](https://github.com/AntNodes/MY-SNAPSHOTS)
 
 </p>
