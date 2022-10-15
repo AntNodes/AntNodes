@@ -9,7 +9,7 @@
 
 ## I have been testing since 2019 and participated in many testnets ⌛
 
-# ✉♂️Contact  <a href="https://discord.com/users/863083870626250812"><img src="https://img.shields.io/badge/-DISCORD-purple?style=flat&logo=DISCORD&logoColor=white"/></a>
+#✉Contact  <a href="https://discord.com/users/863083870626250812"><img src="https://img.shields.io/badge/-DISCORD-purple?style=flat&logo=DISCORD&logoColor=white"/></a>
 <br>
 
 ## [🖥My TESTNETS](https://github.com/AntNodes/MY-TESTNET)
