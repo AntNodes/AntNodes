@@ -11,10 +11,10 @@
 
 ## [🖥My TESTNETS](https://github.com/AntNodes/MY-TESTNET)
 
-## [🌐My MAINNETS](https://github.com/AntNodes/MY-TESTNET)
+## [🌐My MAINNETS](https://github.com/AntNodes/MY-MAINNETS)
 
 ## [📋My MANUALS](https://github.com/AntNodes/MY-MANUALS)
 
-## [📸My SNAPSHOTS](https://github.com/AntNodes/MY-TESTNET)
+## [📸My SNAPSHOTS](https://github.com/AntNodes/MY-SNAPSHOTS)
 
 </p>
