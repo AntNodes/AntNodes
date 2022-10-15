@@ -13,11 +13,11 @@
 
 <br>
 
-## [🖥&nbsp;&nbsp;My TESTNETS](https://github.com/AntNodes/MY-TESTNET)
+## [🖥&nbsp;My TESTNETS](https://github.com/AntNodes/MY-TESTNET)
 
-## [🌐&nbsp;&nbsp;My MAINNETS](https://github.com/AntNodes/MY-MAINNETS)
+## [🌐&nbsp;My MAINNETS](https://github.com/AntNodes/MY-MAINNETS)
 
-## [📋&nbsp;&nbsp;My MANUALS](https://github.com/AntNodes/MY-MANUALS)
+## [📋&nbsp;My MANUALS](https://github.com/AntNodes/MY-MANUALS)
 
 ## [⚙ •SNAPSHOTS •ADDRBOOK •PEER •STATESYNC](https://github.com/AntNodes/MY-SNAPSHOTS)
 
