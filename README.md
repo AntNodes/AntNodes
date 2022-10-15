@@ -18,6 +18,6 @@
 
 ## [📋My MANUALS](https://github.com/AntNodes/MY-MANUALS)
 
-## [⚙ SNAPSHOTS ADDRBOOK PEER ○STATESYNC](https://github.com/AntNodes/MY-SNAPSHOTS)
+## [⚙ •SNAPSHOTS •ADDRBOOK •PEER •STATESYNC](https://github.com/AntNodes/MY-SNAPSHOTS)
 
 </p>
