@@ -15,6 +15,6 @@
 
 ## [📋My MANUALS](https://github.com/AntNodes/MY-MANUALS)
 
-## [📸SNAPSHOTS](https://github.com/AntNodes/MY-TESTNET)
+## [📸My SNAPSHOTS](https://github.com/AntNodes/MY-TESTNET)
 
 </p>
