@@ -7,6 +7,13 @@
 <h1>Aɴᴛ Nᴏᴅᴇs</h1>
 
 ## Lᴏᴠᴇ ʀᴜɴɴɪɴɢ ɴᴏᴅᴇs ᴀɴᴅ ᴛᴇsᴛɪɴɢ
+    <br />
+<br />
+Monitoring 24/7 
+    <br />
+    <br />
+  </div>
+</div>
 
 ## ✉Contact &nbsp;&nbsp;<a href="https://discord.com/users/863083870626250812"><img src="https://img.shields.io/badge/-DISCORD-purple?style=flat&logo=DISCORD&logoColor=white"/></a> 
 
