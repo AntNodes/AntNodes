@@ -6,7 +6,7 @@
   <br />
 <h1>Aɴᴛ Nᴏᴅᴇs</h1>
 
-## Love running nodes and testing 👨‍💻
+## Lᴏᴠᴇ ʀᴜɴɴɪɴɢ ɴᴏᴅᴇs ᴀɴᴅ ᴛᴇsᴛɪɴɢ 👨‍💻 👨‍💻
 
 ## ✉Contact &nbsp;&nbsp;<a href="https://discord.com/users/863083870626250812"><img src="https://img.shields.io/badge/-DISCORD-purple?style=flat&logo=DISCORD&logoColor=white"/></a> 
 
