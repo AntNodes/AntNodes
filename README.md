@@ -7,9 +7,9 @@
 <h1>Aɴᴛ Nᴏᴅᴇs</h1>
 
 ## Lᴏᴠᴇ ʀᴜɴɴɪɴɢ ɴᴏᴅᴇs ᴀɴᴅ ᴛᴇsᴛɪɴɢ
-    <br />
+
 <br />
-Monitoring 24/7 
+👀 Monitoring 24/7 Tenderduty+Garfana 🔔 Allerts  Discord & Telegramm
     <br />
     <br />
   </div>
