@@ -4,7 +4,7 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <br />
-<h1>Aɴᴛ Nᴏᴅᴇs</h1>
+<h1>Ａｎｔ Ｎｏｄｅｓ</h1>
 
 ## Lᴏᴠᴇ ʀᴜɴɴɪɴɢ ɴᴏᴅᴇs ᴀɴᴅ ᴛᴇsᴛɪɴɢ
 
