@@ -1,9 +1,10 @@
 <h1 align="center">  </h1>
 </p>
 
-<p align="center">
-<img width="600" src="https://github.com/AntNodes/assets/blob/main/github-snake.svg" alt="snake"/>
-</p>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <br />
+<h1>Aɴᴛ Nᴏᴅᴇs</h1>
 
 ## Love running nodes and testing 👨‍💻
 
