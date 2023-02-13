@@ -9,7 +9,7 @@
 ## Lᴏᴠᴇ ʀᴜɴɴɪɴɢ ɴᴏᴅᴇs ᴀɴᴅ ᴛᴇsᴛɪɴɢ
 
 <br />
-👀 Monitoring Tenderduty+Garfana 🔔 Allerts  Discord & Telegramm
+👀 Monitoring: Tenderduty+Garfana 🔔 Allerts:  Discord & Telegramm
     <br />
     <br />
   </div>
