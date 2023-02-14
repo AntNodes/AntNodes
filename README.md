@@ -9,7 +9,7 @@
 ## Lᴏᴠᴇ ʀᴜɴɴɪɴɢ ɴᴏᴅᴇs ᴀɴᴅ ᴛᴇsᴛɪɴɢ
 
 <br />
-&nbsp;&nbsp;&nbsp; 👀 Monitoring: Tenderduty+Grafana  <br /> 🔔 Allerts:  Discord & Telegramm
+&nbsp;&nbsp;&nbsp; 👀 Monitoring: Tenderduty+Grafana  <br /> 🔔 Allerts:  Discord & Telegramm <br /> ⚙️VDS/VPS Hentzner 
     <br />
     <br />
   </div>
