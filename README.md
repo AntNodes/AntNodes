@@ -19,9 +19,9 @@
 
 <br>
 
-## [🖥&nbsp;My TESTNETS](https://github.com/AntNodes/MY-TESTNET)
+## [🖥&nbsp;TESTNETS](https://github.com/AntNodes/MY-TESTNET)
 
-## [🌐&nbsp;My MAINNETS](https://github.com/AntNodes/MY-MAINNETS)
+## [🌐&nbsp;MAINNETS](https://github.com/AntNodes/MY-MAINNETS)
 
 ## [📋&nbsp;MANUALS](https://github.com/AntNodes/MY-MANUALS)
 
