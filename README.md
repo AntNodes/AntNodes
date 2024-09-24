@@ -9,7 +9,7 @@
 ## 𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
 
 <br />
-&nbsp;&nbsp;&nbsp; 👀 Monitoring: Tenderduty+Grafana  <br /> 🔔 Allerts:  Discord & Telegramm <br /> &nbsp;⚙️VDS/VPS Hetzner 
+&nbsp;&nbsp;&nbsp; 👀 Monitoring: Tenderduty+Grafana  <br /> 🔔 Allerts:  Discord & Telegram <br /> &nbsp;⚙️VDS/VPS Hetzner 
     <br />
     <br />
   </div>
