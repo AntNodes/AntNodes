@@ -49,6 +49,6 @@
 
 ---
 
-### 📊 **Node Stats** (пример)
+### 📊 **Node Stats**  soon
 ![Uptime](https://img.shields.io/badge/UPTIME-99.9%25-brightgreen)  
 ![Networks](https://img.shields.io/badge/ACTIVE_NETWORKS-10+-blue) 
