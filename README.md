@@ -6,7 +6,7 @@
 <div style="font-size: 1.1em; margin: 20px 0 30px 0; line-height: 1.6; text-align: center;">
   👀 <strong>Monitoring:</strong> Tenderduty + Grafana<br>
   🔔 <strong>Alerts:</strong> Discord & Telegram<br>
-  ⚙️ <strong>Infra:</strong> VDS/VPS Hetzner
+  ⚙️ <strong> infrastructure:</strong> VDS/VPS Hetzner
 </div>
 
 <h2 style="font-size: 1.8em; margin: 40px 0 20px 0;">🌐 Mainnets</h2>
