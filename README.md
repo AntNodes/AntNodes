@@ -41,15 +41,18 @@
   <a href="https://github.com/AntNodes/MY-TESTNET">🖥 Testnets</a>
 </div>
 
-### ✉ Contact
-<div align="center" style="margin-top: 20px;">
-  <a href="https://discord.com/users/863083870626250812">
-    <img src="https://simpleicons.org/icons/discord.svg" width="28" style="margin: 0 10px; background: #5865F2; padding: 5px; border-radius: 50%;">
-  </a>
-  <a href="https://t.me/AntNodes">
-    <img src="https://simpleicons.org/icons/telegram.svg" width="28" style="margin: 0 10px; background: #26A5E4; padding: 5px; border-radius: 50%;">
-  </a>
-  <a href="https://twitter.com/AntNodes">
-    <img src="https://simpleicons.org/icons/twitter.svg" width="28" style="margin: 0 10px; background: #1DA1F2; padding: 5px; border-radius: 50%;">
-  </a>
+<div style="text-align: center;">
+    <h2>✉ Contact</h2>
+    <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+      <a href="https://discord.com/users/863083870626250812">
+        <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+      </a>
+      <a href="https://t.me/AntNodes">
+        <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+      </a>
+      <a href="https://twitter.com/AntNodes">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+      </a>
+    </div>
+  </div>
 </div>
