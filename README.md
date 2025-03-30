@@ -2,11 +2,11 @@
   Ａｎｔ Ｎｏｄｅｓ
 </h1>
 
-<p align="center" style="font-size: 1.8em; margin: 5px 0 30px; color: #4a6baf; font-weight: bold;">
+<p align="center" style="font-size: 14px; margin: 5px 0 30px; font-weight: bold;">
   𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
 </p>
 
-<div align="center" style="font-size: 1.3em; margin: 40px 0; line-height: 1.8;">
+<div style="font-size: 1.3em; margin: 40px 0 40px 20px; line-height: 1.8;">
   👀 <strong>Monitoring:</strong> Tenderduty + Grafana<br>
   🔔 <strong>Alerts:</strong> Discord & Telegram<br>
   ⚙️ <strong>Infra:</strong> VDS/VPS Hetzner
@@ -33,7 +33,7 @@
 ---
 
 ### 🔗 Links
-<div align="center" style="margin: 30px 0; font-size: 1.2em;">
+<div style="margin: 30px 0 30px 20px; font-size: 1.2em;">
   <a href="https://github.com/AntNodes/MY-MANUALS">📋 Manuals</a> · 
   <a href="https://github.com/AntNodes/MY-SNAPSHOTS">⚡ Snapshots</a> · 
   <a href="https://github.com/AntNodes/MY-TESTNET">🖥 Testnets</a>
@@ -42,12 +42,12 @@
 ### ✉ Contact
 <div align="center" style="margin-top: 20px;">
   <a href="https://discord.com/users/863083870626250812">
-    <img src="https://simpleicons.org/icons/discord.svg" width="28" style="margin: 0 10px;">
+    <img src="https://simpleicons.org/icons/discord.svg" width="28" style="margin: 0 10px; background: #5865F2; padding: 5px; border-radius: 50%;">
   </a>
   <a href="https://t.me/AntNodes">
-    <img src="https://simpleicons.org/icons/telegram.svg" width="28" style="margin: 0 10px;">
+    <img src="https://simpleicons.org/icons/telegram.svg" width="28" style="margin: 0 10px; background: #26A5E4; padding: 5px; border-radius: 50%;">
   </a>
   <a href="https://twitter.com/AntNodes">
-    <img src="https://simpleicons.org/icons/twitter.svg" width="28" style="margin: 0 10px;">
+    <img src="https://simpleicons.org/icons/twitter.svg" width="28" style="margin: 0 10px; background: #1DA1F2; padding: 5px; border-radius: 50%;">
   </a>
 </div>
