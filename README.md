@@ -44,11 +44,7 @@
       <a href="https://discord.com/users/863083870626250812">
         <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
       </a>
-      <a href="https://t.me/AntNodes">
-        <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-      </a>
-      <a href="https://twitter.com/AntNodes">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+     
       </a>
     </div>
   </div>
