@@ -30,6 +30,8 @@
 </div>
 </p>
 </p>
+</p>
+</p>
 
 <h2 style="font-size: 1.8em; margin: 40px 0 20px 0;">🔗 Quick Links</h2>
 <div style="font-size: 1.3em; line-height: 2.2; margin-bottom: 40px;">
