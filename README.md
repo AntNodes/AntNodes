@@ -4,9 +4,8 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
   <br />
-<h1>Ａｎｔ Ｎｏｄｅｓ</h1>
-
-## 𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
+Ａｎｔ Ｎｏｄｅｓ</h1>
+𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰 <h1>
 
 <div style="font-size: 1.1em; margin: 20px 0 30px 0; line-height: 1.6; text-align: center;">
   👀 <strong>Monitoring:</strong> Tenderduty + Grafana<br>
