@@ -1,12 +1,12 @@
-<div align="center">
-
-<!-- Вариант 1 - Минимализм с градиентом -->
-<h1 style="font-size: 2.8em; margin-bottom: 0; background: linear-gradient(90deg, #4a6baf, #6a5acd); -webkit-background-clip: text; color: transparent; font-family: 'Segoe UI', sans-serif;">
-  ANT NODES
-</h1>
-<p style="font-size: 1.3em; margin-top: 5px; font-family: 'Courier New', monospace; letter-spacing: 1px;">
-  [ Your potential is limitless ]
+<h1 align="center">  </h1>
 </p>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <br />
+<h1>Ａｎｔ Ｎｏｄｅｓ</h1>
+
+## 𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
 
 <div style="font-size: 1.1em; margin: 20px 0 30px 0; line-height: 1.6; text-align: center;">
   👀 <strong>Monitoring:</strong> Tenderduty + Grafana<br>
