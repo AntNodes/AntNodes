@@ -4,7 +4,7 @@
 
 <h2 align="center" style="font-size: 1.8em; margin: 40px 0 20px 0; font-weight: bold;">
   𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
-</h2>
+<h2>
 
 <div style="font-size: 1.3em; margin: 40px 0 40px 0; line-height: 1.8; text-align: center;">
   👀 <strong>Monitoring:</strong> Tenderduty + Grafana<br>
