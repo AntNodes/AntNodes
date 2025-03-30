@@ -1,17 +1,19 @@
-<h1 align="center" style="font-size: 2.8em; margin-bottom: 10px; letter-spacing: 2px;">
-  Ａｎｔ Ｎｏｄｅｓ
-</h1>
-
-<p align="center" style="font-size: 14px; margin: 5px 0 30px; font-weight: bold;">
-  𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
+<<h1 align="center">  </h1>
 </p>
 
-<div style="font-size: 1.3em; margin: 40px 0 40px 20px; line-height: 1.8;">
-  👀 <strong>Monitoring:</strong> Tenderduty + Grafana<br>
-  🔔 <strong>Alerts:</strong> Discord & Telegram<br>
-  ⚙️ <strong>Infra:</strong> VDS/VPS Hetzner
-</div>
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <br />
+<h1>Ａｎｔ Ｎｏｄｅｓ</h1>
 
+## 𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
+
+<br />
+&nbsp;&nbsp;&nbsp; 👀 Monitoring: Tenderduty+Grafana  <br /> 🔔 Allerts:  Discord & Telegram <br /> &nbsp;⚙️VDS/VPS Hetzner 
+    <br />
+    <br />
+  </div>
+</div>
 ---
 
 ### 🌐 Mainnets
