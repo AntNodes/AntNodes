@@ -1,8 +1,12 @@
-<h1 align="center" style="font-size: 2.8em; margin-bottom: 5px; letter-spacing: 2px; border-bottom: none !important; text-decoration: none !important;">
-  Ａｎｔ Ｎｏｄｅｓ
-
-Yᴏᴜ ᴘᴏᴛᴇɴᴛɪᴀʟ ɪs ʟɪᴍᴇᴛʟᴇss
+<!-- Вариант 4 - Технологичный -->
+<h1 style="font-size: 2.7em; margin-bottom: 0; color: #333; font-family: 'Consolas', monospace;">
+  > ANT_NODES_
 </h1>
+<p style="font-size: 1em; margin-top: 5px; color: #4a6baf; font-family: 'Consolas', monospace;">
+  /* Your potential is limitless */
+</p>
+
+</div>
 
 <div style="font-size: 1.1em; margin: 20px 0 30px 0; line-height: 1.6; text-align: center;">
   👀 <strong>Monitoring:</strong> Tenderduty + Grafana<br>
