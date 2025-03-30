@@ -29,8 +29,7 @@
     <img src="https://github.com/user-attachments/assets/06f289a3-10e5-4e86-a326-fc95142d40a6" width="80" style="border-radius: 12px;">
   </a>
 </div>
-
-
+<br>
 
 
 <h2 style="font-size: 1.8em; margin: 40px 0 20px 0;">🔗 Quick Links</h2>
