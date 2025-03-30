@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 2.8em; margin-bottom: 5px; letter-spacing: 2px; border-bottom: none !important; text-decoration: none !important;">
   Ａｎｔ Ｎｏｄｅｓ
 
-Yᴏᴜ ᴘᴏᴛᴇɴᴛɪᴀʟ ɪs ʟɪᴍᴇᴛʟᴇss
+𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
 </h1>
 <div style="font-size: 1.1em; margin: 20px 0 30px 0; line-height: 1.6; text-align: center;">
   👀 <strong>Monitoring:</strong> Tenderduty + Grafana<br>
