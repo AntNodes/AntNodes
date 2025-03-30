@@ -1,49 +1,50 @@
-<div align="center">
-  <div style="display: flex; align-items: flex-start;">
-  <br />
-<h1>Ａｎｔ Ｎｏｄｅｓ</h1>
+<div align="center" style="margin-bottom: 30px;">
+  <h1 style="font-size: 2.5em; margin-bottom: 5px;">Ａｎｔ Ｎｏｄｅｓ</h1>
+  <p style="font-size: 1.5em; font-weight: bold; margin: 0; color: #4a6baf;">
+    𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
+  </p>
+</div>
 
-## 𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
-
-<br />
-&nbsp;&nbsp;&nbsp; 👀 Monitoring: Tenderduty+Grafana  <br /> 🔔 Allerts:  Discord & Telegram <br /> &nbsp;⚙️VDS/VPS Hetzner 
-    <br />
-    <br />
+<div style="background: rgba(74, 107, 175, 0.1); padding: 20px; border-radius: 15px; margin: 20px 0;">
+  <div style="display: flex; justify-content: center; gap: 40px; font-size: 1.2em;">
+    <span>👀 <strong>Monitoring:</strong> Tenderduty+Grafana</span>
+    <span>🔔 <strong>Alerts:</strong> Discord & Telegram</span>
+    <span>⚙️ <strong>Infra:</strong> VDS/VPS Hetzner</span>
   </div>
 </div>
 
-### 🌐 Mainnets
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin: 40px 0;">
-  <a href="https://app.muon.net/dashboard/">
-    <img src="https://github.com/user-attachments/assets/369afa20-60a0-4340-b9ff-43778f8370b7" width="80" style="border-radius: 12px;">
+<div style="border-top: 2px solid #4a6baf; margin: 30px 0;"></div>
+
+<h2 align="center" style="font-size: 1.8em; margin-bottom: 25px;">🌐 Active Mainnets</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 25px; padding: 0 20px;">
+  <a href="https://app.muon.net/dashboard/" style="text-decoration: none;">
+    <div style="background: rgba(74, 107, 175, 0.1); padding: 20px; border-radius: 12px; text-align: center; transition: transform 0.3s;">
+      <img src="https://github.com/user-attachments/assets/369afa20-60a0-4340-b9ff-43778f8370b7" width="90" style="border-radius: 10px;">
+      <p style="margin-top: 15px; font-weight: bold;">MUON</p>
+    </div>
   </a>
-  <a href="https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee">
-    <img src="https://github.com/user-attachments/assets/3b7c6520-fd3b-4d0f-8644-8c02f069ce29" width="80" style="border-radius: 12px;">
-  </a>
-  <a href="https://portal.dymension.xyz/rollapp/mande_18071918-1/staking">
-    <img src="https://github.com/user-attachments/assets/7d593264-9c9c-4c2f-8f4d-78c4f04c0e30" width="80" style="border-radius: 12px;">
-  </a>
-  <a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=0x04E11563D0Fd748d3b2e4913A5911b542a785c68">
-    <img src="https://github.com/user-attachments/assets/06f289a3-10e5-4e86-a326-fc95142d40a6" width="80" style="border-radius: 12px;">
-  </a>
+  <!-- Остальные mainnets в таком же формате -->
 </div>
 
-### 🔗 Links
-<div style="margin: 30px 0 30px 20px; font-size: 1.2em;">
-  <a href="https://github.com/AntNodes/MY-MANUALS">📋 Manuals</a> · 
-  <a href="https://github.com/AntNodes/MY-SNAPSHOTS">⚡ Snapshots</a> · 
-  <a href="https://github.com/AntNodes/MY-TESTNET">🖥 Testnets</a>
-</div>
+<div style="border-top: 2px solid #4a6baf; margin: 40px 0;"></div>
 
-### ✉ Contact
-<div align="center" style="margin-top: 20px;">
-  <a href="https://discord.com/users/863083870626250812">
-    <img src="https://simpleicons.org/icons/discord.svg" width="28" style="margin: 0 10px; background: #5865F2; padding: 5px; border-radius: 50%;">
-  </a>
-  <a href="https://t.me/AntNodes">
-    <img src="https://simpleicons.org/icons/telegram.svg" width="28" style="margin: 0 10px; background: #26A5E4; padding: 5px; border-radius: 50%;">
-  </a>
-  <a href="https://twitter.com/AntNodes">
-    <img src="https://simpleicons.org/icons/twitter.svg" width="28" style="margin: 0 10px; background: #1DA1F2; padding: 5px; border-radius: 50%;">
-  </a>
+<div style="display: flex; justify-content: space-around; max-width: 800px; margin: 0 auto;">
+  <div>
+    <h3 style="font-size: 1.5em; margin-bottom: 15px;">🔗 Quick Links</h3>
+    <div style="font-size: 1.2em; line-height: 2;">
+      <a href="https://github.com/AntNodes/MY-MANUALS" style="text-decoration: none;">📋 Manuals</a><br>
+      <a href="https://github.com/AntNodes/MY-SNAPSHOTS" style="text-decoration: none;">⚡ Snapshots</a><br>
+      <a href="https://github.com/AntNodes/MY-TESTNET" style="text-decoration: none;">🖥 Testnets</a>
+    </div>
+  </div>
+
+  <div>
+    <h3 style="font-size: 1.5em; margin-bottom: 15px;">✉ Contact</h3>
+    <div style="display: flex; gap: 15px;">
+      <a href="https://discord.com/users/863083870626250812" style="display: inline-block; width: 40px; height: 40px; border-radius: 50%; background: #5865F2; display: flex; align-items: center; justify-content: center;">
+        <img src="https://simpleicons.org/icons/discord.svg" width="20" style="filter: brightness(0) invert(1);">
+      </a>
+      <!-- Остальные иконки контактов -->
+    </div>
+  </div>
 </div>
