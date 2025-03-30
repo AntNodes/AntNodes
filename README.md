@@ -11,7 +11,6 @@
   🔔 <strong>Alerts:</strong> Discord & Telegram<br>
   ⚙️ <strong>Infra:</strong> VDS/VPS Hetzner
 </div>
-</p>
 <br>
 
 <h2 style="font-size: 1.8em; margin: 40px 0 20px 0;">🌐 Mainnets</h2>
