@@ -1,7 +1,7 @@
 <h1 align="center">Ａｎｔ Ｎｏｄｅｓ</h1>
 
 <div align="center">
-  <div style="font-size: 1.8em; letter-spacing: 2px; margin: 25px 0; font-weight: bold;">
+  <div style="font-size: 14 px; letter-spacing: 2px; margin: 25px 0; font-weight: bold;">
     𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
   </div>
   
