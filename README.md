@@ -1,17 +1,16 @@
-<h1 align="center" style="font-size: 2.8em; margin-bottom: 10px; letter-spacing: 2px;">
+<h1 align="center" style="font-size: 2.8em; margin-bottom: 5px; letter-spacing: 2px;">
   Ａｎｔ Ｎｏｄｅｓ
 </h1>
 
-<h1 align="center" style="font-size: 1.8em; margin: 40px 0 20px 0; font-weight: bold;">
+<h2 align="center" style="font-size: 1.5em; margin: 10px 0 25px 0; font-weight: bold;">
   𝔜𝔬𝔲𝔯 𝔭𝔬𝔱𝔢𝔫𝔱𝔦𝔞𝔩 𝔦𝔰 𝔩𝔦𝔪𝔦𝔱𝔩𝔢𝔰𝔰
-<h1>
+</h2>
 
-<div style="font-size: 1.3em; margin: 40px 0 40px 0; line-height: 1.8; text-align: center;">
+<div style="font-size: 1.1em; margin: 20px 0 30px 0; line-height: 1.6; text-align: center;">
   👀 <strong>Monitoring:</strong> Tenderduty + Grafana<br>
   🔔 <strong>Alerts:</strong> Discord & Telegram<br>
   ⚙️ <strong>Infra:</strong> VDS/VPS Hetzner
 </div>
-<br>
 
 <h2 style="font-size: 1.8em; margin: 40px 0 20px 0;">🌐 Mainnets</h2>
 <div style="display: flex; gap: 30px; flex-wrap: wrap; margin-bottom: 40px;">
