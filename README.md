@@ -36,14 +36,32 @@
 </div>
 
 <h2 style="font-size: 1.8em; margin: 40px 0 20px 0;">✉ Contact</h2>
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <a href="https://discord.com/users/863083870626250812">
-    <img src="https://simpleicons.org/icons/discord.svg" width="32" style="background: #5865F2; padding: 8px; border-radius: 50%;">
+<div style="display: flex; gap: 25px; margin-bottom: 40px;">
+  <a href="https://discord.com/users/863083870626250812" style="display: inline-block; transition: all 0.3s ease;">
+    <div style="width: 50px; height: 50px; background: #5865F2; border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 8px rgba(88, 101, 242, 0.3); transition: all 0.3s ease;">
+      <img src="https://simpleicons.org/icons/discord.svg" width="26" style="filter: brightness(0) invert(1); transition: all 0.3s ease;">
+    </div>
   </a>
-  <a href="https://t.me/AntNodes">
-    <img src="https://simpleicons.org/icons/telegram.svg" width="32" style="background: #26A5E4; padding: 8px; border-radius: 50%;">
+  
+  <a href="https://t.me/AntNodes" style="display: inline-block; transition: all 0.3s ease;">
+    <div style="width: 50px; height: 50px; background: #26A5E4; border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 8px rgba(38, 165, 228, 0.3); transition: all 0.3s ease;">
+      <img src="https://simpleicons.org/icons/telegram.svg" width="26" style="filter: brightness(0) invert(1); transition: all 0.3s ease;">
+    </div>
   </a>
-  <a href="https://twitter.com/AntNodes">
-    <img src="https://simpleicons.org/icons/twitter.svg" width="32" style="background: #1DA1F2; padding: 8px; border-radius: 50%;">
+  
+  <a href="https://twitter.com/AntNodes" style="display: inline-block; transition: all 0.3s ease;">
+    <div style="width: 50px; height: 50px; background: #1DA1F2; border-radius: 50%; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 8px rgba(29, 161, 242, 0.3); transition: all 0.3s ease;">
+      <img src="https://simpleicons.org/icons/twitter.svg" width="26" style="filter: brightness(0) invert(1); transition: all 0.3s ease;">
+    </div>
   </a>
 </div>
+
+<style>
+  a:hover div {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  }
+  a:hover img {
+    transform: scale(1.1);
+  }
+</style>
