@@ -22,7 +22,10 @@
   </a>
   <a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=0x04E11563D0Fd748d3b2e4913A5911b542a785c68">
     <img src="https://github.com/user-attachments/assets/06f289a3-10e5-4e86-a326-fc95142d40a6" width="80" style="border-radius: 12px;">
-  </a>
+    </a>
+  <a href="https://explorer.kjnodes.com/nillion/staking/nillionvaloper1s8ee8qaaz5gt38pfksjry79jcjwrd78mphjf2r">
+    <img src="https://github.com/user-attachments/assets/1ed5904e-b656-4e79-af70-20454d18e9f4" width="80" style="border-radius: 12px;">
+    </a>
 </div>
 <br>
 
