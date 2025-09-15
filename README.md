@@ -14,7 +14,6 @@
 
 ---
 ##  🌐 Mainnets
-
 <p align="center">
   <a href="https://nillion.explorers.guru/validator/nillionvaloper1s8ee8qaaz5gt38pfksjry79jcjwrd78mphjf2r">
     <picture>
