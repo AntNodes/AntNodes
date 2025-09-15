@@ -1,3 +1,10 @@
+</br>
+<h1 align="center">Ａｎｔ Ｎｏｄｅｓ</h1>
+
+<p align="center">
+  <b>Your potential is limitless</b>
+</p>
+
 <p align="center">
   <a href="https://nillion.explorers.guru/validator/nillionvaloper1s8ee8qaaz5gt38pfksjry79jcjwrd78mphjf2r">
     <picture>
@@ -20,21 +27,6 @@
     <img alt="Humanode logo" src="https://github.com/user-attachments/assets/3b7c6520-fd3b-4d0f-8644-8c02f069ce29" width="auto" height="80">
     </picture>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://portal.dymension.xyz/rollapp/mande_18071918-1/staking">
-    <picture>
-    <img alt="Mande logo" src="https://user-images.githubusercontent.com/your-username/your-repo/7d593264-9c9c-4c2f-8f4d-78c4f04c0e30" width="auto" height="80">
-    </picture>
-  </a>
-</p>
-
-</br>
-<h1 align="center">Ａｎｔ Ｎｏｄｅｓ</h1>
-
-<p align="center">
-  <b>Your potential is limitless</b>
 </p>
 
 <p align="center">
