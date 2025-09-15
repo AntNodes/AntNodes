@@ -26,10 +26,7 @@
   <a href="https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee">
     <img src="https://github.com/user-attachments/assets/3b7c6520-fd3b-4d0f-8644-8c02f069ce29" width="80" height="80" style="border-radius: 20px; border: 2px solid #7E3FCE; box-shadow: 0 4px 8px rgba(126, 63, 206, 0.3); transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
-  <a href="https://portal.dymension.xyz/rollapp/mande_18071918-1/staking">
-    <img src="https://github.com/user-attachments/assets/7d593264-9c9c-4c2f-8f4d-78c4f04c0e30" width="80" height="80" style="border-radius: 20px; border: 2px solid #7E3FCE; box-shadow: 0 4px 8px rgba(126, 63, 206, 0.3); transition: transform 0.2s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-  </a>
-</div>
+  </div>
 
 ---
 
