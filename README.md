@@ -51,3 +51,9 @@
     <img src="https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntNodes&show_icons=true&theme=radical&hide_border=true" alt="AntNodes Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntNodes&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="41%">
+</p>
