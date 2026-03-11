@@ -14,7 +14,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> About Me
 
 - 🖥 **Self-hosted bare-metal** infrastructure since 2022
-- 🌐 Servers in **home lab** + **Hetzner**
+- 🌐 Servers in bare-metal + **Hetzner**
 - ⛓ Active validator — **Nillion, Humanode** mainnets
 - 🤖 **40+ testnets** across Cosmos, EVM, AI ecosystems
 - 🔧 Built custom **node automation & monitoring** tooling
