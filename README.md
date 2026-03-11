@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2b1a,100:00C851&height=200&section=header&text=AntNodes&fontSize=60&fontColor=00C851&fontAlignY=38&desc=Blockchain%20Infrastructure%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descAlignY=58&descSize=16&descColor=7dbb8a&animation=fadeIn" />
 
-[![Discord](https://img.shields.io/badge/Discord-@AntNodes-00C851?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
-[![Uptime](https://img.shields.io/badge/Uptime-99.9%25-00C851?style=flat-square)](https://github.com/AntNodes)
-[![Networks](https://img.shields.io/badge/Networks-40%2B-00C851?style=flat-square&logo=ethereum&logoColor=white)](https://github.com/AntNodes)
-[![Profile Views](https://komarev.com/ghpvc/?username=AntNodes&color=00C851&style=flat-square&label=Views)](https://github.com/AntNodes)
+[![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
+[![Uptime](https://img.shields.io/badge/Uptime-99.9%25-6B7280?style=flat-square)](https://github.com/AntNodes)
+[![Networks](https://img.shields.io/badge/Networks-40%2B-6B7280?style=flat-square&logo=ethereum&logoColor=white)](https://github.com/AntNodes)
+[![Profile Views](https://komarev.com/ghpvc/?username=AntNodes&color=6B7280&style=flat-square&label=Views)](https://github.com/AntNodes)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 <img align="right" alt="Mountains" width="340" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHZ6dnBkYzRidTdsN2NwZDllNzVmdWFmbGw0YmZ0YWttNXZydHRkaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" />
 
-### 👋 About Me
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> About Me
 
 - 🖥 **Self-hosted bare-metal** infrastructure since 2022
 - 🌐 Servers in **home lab** + **Hetzner**
@@ -27,59 +27,59 @@
 
 ---
 
-## 🛠 Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Stack
 
 <div align="center">
 
-**Hypervisors & Hardware**
+### 🖥 Hypervisors & Hardware
 
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-6B7280?style=for-the-badge&logo=linux&logoColor=white)
-![HyperV](https://img.shields.io/badge/Hyper--V-7B9EC7?style=for-the-badge&logo=microsoft&logoColor=white)
-![iLO](https://img.shields.io/badge/iLO%2FIPMI-7ABACC?style=for-the-badge&logo=hp&logoColor=white)
-![RAID](https://img.shields.io/badge/RAID-9CA3AF?style=for-the-badge&logo=linux&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-FF6B00?style=for-the-badge&logo=proxmox&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-A0AEC0?style=for-the-badge&logo=linux&logoColor=white)
+![HyperV](https://img.shields.io/badge/Hyper--V-90B8D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![iLO](https://img.shields.io/badge/iLO%2FIPMI-5BC0DE?style=for-the-badge&logo=hp&logoColor=white)
+![RAID](https://img.shields.io/badge/RAID-B0BEC5?style=for-the-badge&logo=linux&logoColor=white)
 
-**OS & Shell**
+### 🐧 OS & Shell
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FF6B35?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-00C851?style=for-the-badge&logo=gnubash&logoColor=white)
-![Systemd](https://img.shields.io/badge/Systemd-9CA3AF?style=for-the-badge&logo=linux&logoColor=white)
-![Cron](https://img.shields.io/badge/Cron-6B7280?style=for-the-badge&logo=gnubash&logoColor=white)
+![Systemd](https://img.shields.io/badge/Systemd-B0BEC5?style=for-the-badge&logo=linux&logoColor=white)
+![Cron](https://img.shields.io/badge/Cron-90A4AE?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Containers**
+### 🐳 Containers
 
-![Docker](https://img.shields.io/badge/Docker-4A9EDB?style=for-the-badge&logo=docker&logoColor=white)
-![Compose](https://img.shields.io/badge/Compose-7BB8E8?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-29B6F6?style=for-the-badge&logo=docker&logoColor=white)
+![Compose](https://img.shields.io/badge/Compose-4FC3F7?style=for-the-badge&logo=docker&logoColor=white)
 
-**Networking & Security**
+### 🔐 Networking & Security
 
-![WireGuard](https://img.shields.io/badge/WireGuard-B85C5C?style=for-the-badge&logo=wireguard&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-EF5350?style=for-the-badge&logo=wireguard&logoColor=white)
 ![AmneziaWG](https://img.shields.io/badge/AmneziaWG-00C851?style=for-the-badge&logo=wireguard&logoColor=white)
-![Xray](https://img.shields.io/badge/Xray%2FVLESS-9CA3AF?style=for-the-badge&logo=v2ray&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-6BAF8A?style=for-the-badge&logo=nginx&logoColor=white)
-![UFW](https://img.shields.io/badge/UFW%2Fiptables-D4A574?style=for-the-badge&logo=linux&logoColor=white)
-![SSL](https://img.shields.io/badge/Let's_Encrypt-7BB8E8?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Xray](https://img.shields.io/badge/Xray%2FVLESS-B0BEC5?style=for-the-badge&logo=v2ray&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-66BB6A?style=for-the-badge&logo=nginx&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW%2Fiptables-FFA726?style=for-the-badge&logo=linux&logoColor=white)
+![SSL](https://img.shields.io/badge/Let's_Encrypt-42A5F5?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH_Hardening-00C851?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**Monitoring & CI/CD**
+### 📊 Monitoring & CI/CD
 
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-7BB8E8?style=for-the-badge&logo=telegram&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-9CA3AF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-FF7043?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-FF6B35?style=for-the-badge&logo=prometheus&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-29B6F6?style=for-the-badge&logo=telegram&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-90A4AE?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Cloud & Hosting**
+### ☁️ Cloud & Hosting
 
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
-![Bare Metal](https://img.shields.io/badge/Bare_Metal-9CA3AF?style=for-the-badge&logo=hp&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-EF5350?style=for-the-badge&logo=hetzner&logoColor=white)
+![Bare Metal](https://img.shields.io/badge/Bare_Metal-B0BEC5?style=for-the-badge&logo=hp&logoColor=white)
 
-**Blockchain**
+### ⛓ Blockchain
 
-![Cosmos](https://img.shields.io/badge/Cosmos_SDK-A78BD4?style=for-the-badge&logo=cosmos&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-9CA3AF?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-C4A8E8?style=for-the-badge&logo=solana&logoColor=white)
+![Cosmos](https://img.shields.io/badge/Cosmos_SDK-CE93D8?style=for-the-badge&logo=cosmos&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-B0BEC5?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-CE93D8?style=for-the-badge&logo=solana&logoColor=white)
 ![DVT](https://img.shields.io/badge/DVT_Obol%2FSSV-00C851?style=for-the-badge&logo=ethereum&logoColor=white)
-![EVM](https://img.shields.io/badge/EVM_Nodes-7B9EC7?style=for-the-badge&logo=ethereum&logoColor=white)
+![EVM](https://img.shields.io/badge/EVM_Nodes-90B8D4?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Snapshots](https://img.shields.io/badge/Snapshot_Provider-00C851?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
@@ -90,10 +90,10 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-7BB8E8?style=for-the-badge&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-D4827A?style=for-the-badge&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-7BB8E8?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-A78BD4?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-42A5F5?style=for-the-badge&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EF5350?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-29B6F6?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-CE93D8?style=for-the-badge&logo=terraform&logoColor=white)
 
 </div>
 
