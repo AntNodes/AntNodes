@@ -2,16 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2b1a,100:00C851&height=200&section=header&text=AntNodes&fontSize=60&fontColor=00C851&fontAlignY=38&desc=Blockchain%20Infrastructure%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descAlignY=58&descSize=16&descColor=7dbb8a&animation=fadeIn" />
 
-[![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
-[![Uptime](https://img.shields.io/badge/Uptime-99.9%25-6B7280?style=flat-square)](https://github.com/AntNodes)
-[![Networks](https://img.shields.io/badge/Networks-40%2B-6B7280?style=flat-square&logo=ethereum&logoColor=white)](https://github.com/AntNodes)
-[![Profile Views](https://komarev.com/ghpvc/?username=AntNodes&color=6B7280&style=flat-square&label=Views)](https://github.com/AntNodes)
+[![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
+[![Profile Views](https://komarev.com/ghpvc/?username=AntNodes&color=00C851&style=for-the-badge&label=Views)](https://github.com/AntNodes)
 
 </div>
 
 ---
 
-<img align="right" alt="Mountains" width="340" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHZ6dnBkYzRidTdsN2NwZDllNzVmdWFmbGw0YmZ0YWttNXZydHRkaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" />
+<img align="right" alt="Mountains" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFkbjc1NnYzOTE3YTJvejc5ZmR4Nmozdm1renNidG0yNHg3MWU3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> About Me
 
@@ -66,7 +64,28 @@
 </tr>
 </table>
 
-> *Also: Proxmox · KVM · Hyper-V · iLO/IPMI · RAID · WireGuard · AmneziaWG · Xray/VLESS · UFW · Systemd · Cosmos SDK · EVM Nodes · DVT Obol/SSV · Snapshots · Telegram Bot · Let's Encrypt*
+<details>
+<summary>🔧 More tools & technologies</summary>
+<br/>
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-6B7280?style=flat-square&logo=linux&logoColor=white)
+![HyperV](https://img.shields.io/badge/Hyper--V-7B9EC7?style=flat-square&logo=microsoft&logoColor=white)
+![iLO](https://img.shields.io/badge/iLO%2FIPMI-5BC0DE?style=flat-square&logo=hp&logoColor=white)
+![RAID](https://img.shields.io/badge/RAID-9CA3AF?style=flat-square&logo=linux&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-EF5350?style=flat-square&logo=wireguard&logoColor=white)
+![AmneziaWG](https://img.shields.io/badge/AmneziaWG-00C851?style=flat-square&logo=wireguard&logoColor=white)
+![Xray](https://img.shields.io/badge/Xray%2FVLESS-9CA3AF?style=flat-square&logo=v2ray&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW%2Fiptables-FFA726?style=flat-square&logo=linux&logoColor=white)
+![Systemd](https://img.shields.io/badge/Systemd-9CA3AF?style=flat-square&logo=linux&logoColor=white)
+![Cosmos](https://img.shields.io/badge/Cosmos_SDK-CE93D8?style=flat-square&logo=cosmos&logoColor=white)
+![EVM](https://img.shields.io/badge/EVM_Nodes-7B9EC7?style=flat-square&logo=ethereum&logoColor=white)
+![DVT](https://img.shields.io/badge/DVT_Obol%2FSSV-00C851?style=flat-square&logo=ethereum&logoColor=white)
+![Snapshots](https://img.shields.io/badge/Snapshots-00C851?style=flat-square&logo=linux&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-29B6F6?style=flat-square&logo=telegram&logoColor=white)
+![SSL](https://img.shields.io/badge/Let's_Encrypt-42A5F5?style=flat-square&logo=letsencrypt&logoColor=white)
+
+</details>
 
 </div>
 
@@ -76,7 +95,9 @@
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=python,ansible,kubernetes,terraform&theme=dark&perline=10)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,kubernetes,terraform,docker&theme=dark&perline=10)](https://skillicons.dev)
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 </div>
 
