@@ -15,7 +15,7 @@
 
 - 🖥 **Self-hosted bare-metal** infrastructure since 2022
 - 🌐 Servers in **home lab** + **Hetzner**
-- ⛓ Active validator — **Nillion, Humanode** mainnets
+- ⛓ Active validator mainnets
 - 🤖 **40+ testnets** across Cosmos, EVM, AI ecosystems
 - 🔧 Built custom **node automation & monitoring** tooling
 - 👥 Commercial **node hosting** for clients
