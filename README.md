@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:3a3a3a&height=200&section=header&text=AntNodes&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20Infrastructure%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descAlignY=58&descSize=16&descColor=9ca3af&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:3a3a3a&height=200&section=header&text=AntNodes&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20Infrastructure%20Engineer%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descAlignY=58&descSize=16&descColor=9ca3af&animation=fadeIn" />
 
 [![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
 [![Profile Views](https://komarev.com/ghpvc/?username=AntNodes&color=00C851&style=for-the-badge&label=Views)](https://github.com/AntNodes)
