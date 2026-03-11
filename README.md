@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2b1a,100:00C851&height=200&section=header&text=AntNodes&fontSize=60&fontColor=00C851&fontAlignY=38&desc=Blockchain%20Infrastructure%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descAlignY=58&descSize=16&descColor=7dbb8a&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:3a3a3a&height=200&section=header&text=AntNodes&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Blockchain%20Infrastructure%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descAlignY=58&descSize=16&descColor=9ca3af&animation=fadeIn" />
 
 [![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
 [![Profile Views](https://komarev.com/ghpvc/?username=AntNodes&color=00C851&style=for-the-badge&label=Views)](https://github.com/AntNodes)
@@ -15,7 +15,7 @@
 
 - 🖥 **Self-hosted bare-metal** infrastructure since 2022
 - 🌐 Servers in **home lab** + **Hetzner**
-- ⛓ Active validator mainnets
+- ⛓ Active validator — **Nillion, Humanode** mainnets
 - 🤖 **40+ testnets** across Cosmos, EVM, AI ecosystems
 - 🔧 Built custom **node automation & monitoring** tooling
 - 👥 Commercial **node hosting** for clients
@@ -123,4 +123,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C851,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:000000&height=100&section=footer" />
