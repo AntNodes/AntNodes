@@ -1,59 +1,159 @@
-<br>
-<h1 align="center">Ａｎｔ Ｎｏｄｅｓ</h1>
-<h3 align="center"><i>Your potential is limitless</i></h3>
-
-<p align="center">
-  Professional blockchain infrastructure provider with focus on reliability and monitoring.
-</p>
-
-<!-- Карточки инфо с иконками -->
-<h2 align="center">🛡️ Node Infrastructure</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Monitoring-Tenderduty%20%2B%20Grafana-FF6B6B?style=flat&logo=grafana&logoColor=white">
-  <img src="https://img.shields.io/badge/Alerts-Discord%20%2F%20Telegram-5865F2?style=flat&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Hosting-Hetzner%20VPS-D50C2D?style=flat&logo=hetzner&logoColor=white">
-</p>
-
----
-### 🌐 **Mainnet Validators**
 <div align="center">
-  <a href="https://nillion.explorers.guru/validator/nillionvaloper1s8ee8qaaz5gt38pfksjry79jcjwrd78mphjf2r" title="Nillion">
-    <img src="https://github.com/user-attachments/assets/1ed5904e-b656-4e79-af70-20454d18e9f4" width="80" height="80">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://app.muon.net/dashboard/" title="Muon">
-    <img src="https://github.com/user-attachments/assets/369afa20-60a0-4340-b9ff-43778f8370b7" width="80" height="80">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee" title="Humanode">
-    <img src="https://github.com/user-attachments/assets/3b7c6520-fd3b-4d0f-8644-8c02f069ce29" width="80" height="80">
-  </a>
+
+```
+ █████╗ ███╗   ██╗████████╗███╗   ██╗ ██████╗ ██████╗ ███████╗███████╗
+██╔══██╗████╗  ██║╚══██╔══╝████╗  ██║██╔═══██╗██╔══██╗██╔════╝██╔════╝
+███████║██╔██╗ ██║   ██║   ██╔██╗ ██║██║   ██║██║  ██║█████╗  ███████╗
+██╔══██║██║╚██╗██║   ██║   ██║╚██╗██║██║   ██║██║  ██║██╔══╝  ╚════██║
+██║  ██║██║ ╚████║   ██║   ██║ ╚████║╚██████╔╝██████╔╝███████╗███████║
+╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚══════╝╚══════╝
+```
+
+**Blockchain Infrastructure Engineer · Node Operator · Validator · DevOps**
+
+[![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
+[![Uptime](https://img.shields.io/badge/Uptime-99.9%25-00C851?style=flat-square&logo=statuspage&logoColor=white)](#)
+[![Networks](https://img.shields.io/badge/Networks-40%2B-FF6B35?style=flat-square&logo=ethereum&logoColor=white)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=AntNodes&color=58a6ff&style=flat-square&label=Profile+Views)](#)
+
 </div>
 
 ---
-### 🔗 **Quick Links**
-<p align="center">
-  <a href="https://github.com/AntNodes/MY-TESTNET">
-    <img src="https://img.shields.io/badge/-Testnet_Guides-7E3FCE?style=for-the-badge&logo=gitbook&logoColor=white">
-  </a>
-  <a href="https://github.com/AntNodes/MY-MANUALS">
-    <img src="https://img.shields.io/badge/-Node_Manuals-2E8B57?style=for-the-badge&logo=readthedocs&logoColor=white">
-  </a>
-  <a href="https://github.com/AntNodes/MY-SNAPSHOTS">
-    <img src="https://img.shields.io/badge/-Snapshots_Archive-FFA500?style=for-the-badge&logo=snapcraft&logoColor=white">
-  </a>
-</p>
+
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+### 👋 About Me
+
+- 🖥 Running **self-hosted bare-metal** infrastructure since 2022
+- ⛓ Active validator on **Nillion, Muon, Humanode** and more
+- 🤖 Participated in **40+ testnets** across Cosmos, EVM, AI ecosystems
+- 🔧 Built custom **node automation tooling** (bash + Docker)
+- 👥 Commercial **node hosting** for clients
+- 🌱 Currently learning **Python · Ansible · Kubernetes**
+- 💬 Ask me about **blockchain nodes, validators, server setup, hypervisors**
+
+<br clear="right"/>
 
 ---
-### 📫 **Connect With Us**
-<p align="center">
-  <a href="https://discord.com/users/863083870626250812">
-    <img src="https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntNodes&show_icons=true&theme=radical&hide_border=true" alt="AntNodes Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntNodes&layout=compact&theme=radical&hide_border=true" alt="Top Langs" width="41%">
-</p>
+## 🛠 Tech Stack & Tools
+
+**Hypervisors & Virtualisation**
+
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/KVM-0078D4?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+**OS & Administration**
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+**Containers**
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+**Networking & Security**
+
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xray_VLESS-000000?style=for-the-badge&logo=v2ray&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/UFW%2Fiptables-FF6B35?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/DNS-005571?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+
+**Monitoring**
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+
+**CI/CD**
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+**Blockchain**
+
+<img src="https://img.shields.io/badge/Cosmos_SDK-7B2FBE?style=for-the-badge&logo=cosmos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+
+---
+
+## 📚 Currently Learning
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+---
+
+## 🟢 Active Mainnet Validators
+
+| Network | Role | Explorer |
+|---------|------|----------|
+| [Nillion](https://nillion.com) | Validator | [View](https://explorer.kjnodes.com/nillion/staking/nillionvaloper1s8ee8qaaz5gt38pfksjry79jcjwrd78mphjf2r) |
+| [Muon](https://muon.net) | Node Operator | [Dashboard](https://app.muon.net/dashboard/) |
+| [Humanode](https://humanode.io) | Validator | [Telemetry](https://telemetry.humanode.io/#list/0xc56fa32442b2dad76f214b3ae07998e4ca09736e4813724bfb0717caae2c8bee) |
+| [Mande](https://mande.network) | Validator | [Explorer](https://portal.dymension.xyz/rollapp/mande_18071918-1/staking) |
+| [Transformers](https://tfsc.io) | Validator | [Explorer](https://explorer.tfsc.io/#/pc/ValidatorDetail?address=0x04E11563D0Fd748d3b2e4913A5911b542a785c68) |
+
+---
+
+## 🔵 Active Testnets
+
+| Network | Type |
+|---------|------|
+| [Nexus](https://app.nexus.xyz) | zkVM Prover |
+| [Gensyn](https://gensyn.ai) | AI Compute |
+| [Dria](https://dria.co) | Edge AI Node |
+| [Gaia](https://gaianet.ai) | AI Node |
+| [Pipe Network](https://pipe.network) | CDN Devnet |
+| [Privasea](https://privasea.ai) | Privacy Computing |
+| [Dill](https://dill.xyz) | Validator |
+| [Obol](https://obol.tech) | DVT / EtherFi |
+| [Hemi](https://hemi.xyz) | L2 Node |
+| [Irys](https://irys.xyz) | Storage Node |
+| [Crowd Control](https://cardchain.crowdcontrol.network) | Cosmos Validator |
+| [Sonaric](https://sonaric.xyz) | Edge Node |
+
+---
+
+## 🗂 Repositories
+
+| Repo | Description |
+|------|-------------|
+| [📋 testnet-history](https://github.com/AntNodes/MY-TESTNET) | Full history of testnet participation — active and completed |
+| [🌐 mainnet-validators](https://github.com/AntNodes/MY-MAINNETS) | Mainnet validator portfolio with explorer links |
+| [🤖 node-monitor-bot](https://github.com/AntNodes/SYNC) | Telegram bot for node monitoring — alerts, status, automation |
+| [📖 manuals](https://github.com/AntNodes/MANUALS) | Node setup guides and installation manuals |
+| [⚙️ node-manager](https://github.com/AntNodes/node-manager) | Automated node lifecycle management script |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AntNodes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntNodes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AntNodes&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=FF6B35&currStreakLabel=58a6ff)](https://github.com/AntNodes)
+
+</div>
+
+---
+
+<div align="center">
+
+*Running nodes since 2022 · Self-hosted bare-metal · Always online*
+
+[![Discord](https://img.shields.io/badge/Discord-Contact_Me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
+
+</div>
