@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="Mountains" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODFkbjc1NnYzOTE3YTJvejc5ZmR4Nmozdm1renNidG0yNHg3MWU3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Mountains" width="340" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Nqd3Njczc3dWVjd3F2NXE2cXJucXR5emd5NjRpZTg3cmp5MHl0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XgLtAJUX0qSmLhWFVM/giphy.gif" />
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/> About Me
 
