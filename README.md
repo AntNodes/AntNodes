@@ -1,12 +1,23 @@
 <div align="center">
 
-## AntNodes
-
-`Blockchain Infrastructure · Node Operator · DevOps`
-
-![line](https://img.shields.io/badge/─────────────────────────────────────────────────────-0d1117?style=flat-square)
+```
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│   $ whoami                                      │
+│   > AntNodes                                    │
+│                                                 │
+│   $ cat role.txt                                │
+│   > Blockchain Infrastructure Engineer         │
+│   > Node Operator · Validator · DevOps         │
+│                                                 │
+│   $ uptime                                      │
+│   > Since 2022 · 99.9% uptime                  │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
 
 </div>
+
 
 
 [![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
