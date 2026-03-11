@@ -1,10 +1,6 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AntNodes" alt="AntNodes" />
-</h1>
-
-<p>Blockchain Infrastructure Engineer · Node Operator · DevOps</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=200&section=header&text=AntNodes&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Blockchain%20Infrastructure%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
 
 [![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
 [![Uptime](https://img.shields.io/badge/Uptime-99.9%25-00C851?style=flat-square)](https://github.com/AntNodes)
@@ -19,7 +15,6 @@
 
 ### 👋 About Me
 
-- 🏔 Based in the **Caucasus**
 - 🖥 **Self-hosted bare-metal** infrastructure since 2022
 - ⛓ Active validator — **Nillion, Humanode** mainnets
 - 🤖 **40+ testnets** across Cosmos, EVM, AI ecosystems
@@ -35,25 +30,43 @@
 
 <div align="center">
 
-| Hypervisors | OS & Shell | Containers |
-|:-----------:|:----------:|:----------:|
-| ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![KVM](https://img.shields.io/badge/KVM-0078D4?style=for-the-badge&logo=linux&logoColor=white) ![HyperV](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+**Hypervisors**
 
-| Networking & Security | Monitoring | CI/CD |
-|:--------------------:|:----------:|:-----:|
-| ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![UFW](https://img.shields.io/badge/UFW%2Fiptables-FF6B35?style=for-the-badge&logo=linux&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-0078D4?style=for-the-badge&logo=linux&logoColor=white)
+![HyperV](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-| Blockchain | | |
-|:----------:|:-:|:-:|
-| ![Cosmos](https://img.shields.io/badge/Cosmos_SDK-7B2FBE?style=for-the-badge&logo=cosmos&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white) | | |
+**OS & Shell**
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Compose](https://img.shields.io/badge/Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Networking & Security**
+
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW%2Fiptables-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-005571?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Monitoring & CI/CD**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Blockchain**
+
+![Cosmos](https://img.shields.io/badge/Cosmos_SDK-7B2FBE?style=for-the-badge&logo=cosmos&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
 </div>
 
 ---
 
 ## 📚 Learning Roadmap
-
-> Изучаю для роста в DevOps
 
 <div align="center">
 
@@ -107,12 +120,4 @@
 
 </div>
 
----
-
-<div align="center">
-
-*Since 2022 · Self-hosted · Caucasus 🏔*
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" />
