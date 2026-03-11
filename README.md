@@ -32,24 +32,26 @@
 <div align="center">
 
 **🖥 Hypervisors & OS**
-
-[![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,bash,docker&theme=dark)](https://skillicons.dev)
+<br/>
+[![](https://skillicons.dev/icons?i=linux,ubuntu,bash,docker&theme=dark&perline=10)](https://skillicons.dev)
 
 **🔐 Networking & Security**
-
-[![My Skills](https://skillicons.dev/icons?i=nginx,cloudflare,githubactions,git&theme=dark)](https://skillicons.dev)
+<br/>
+[![](https://skillicons.dev/icons?i=nginx,cloudflare,githubactions,git&theme=dark&perline=10)](https://skillicons.dev)
 
 **📊 Monitoring & Cloud**
-
-[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,hetzner,github&theme=dark)](https://skillicons.dev)
+<br/>
+[![](https://skillicons.dev/icons?i=grafana,prometheus,github,hetzner&theme=dark&perline=10)](https://skillicons.dev)
 
 **⛓ Blockchain & Scripting**
+<br/>
+[![](https://skillicons.dev/icons?i=solidity,python,nodejs,bash&theme=dark&perline=10)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,python,nodejs,bash&theme=dark)](https://skillicons.dev)
+<br/>
+
+> *Also: Proxmox · KVM · Hyper-V · iLO/IPMI · RAID · WireGuard · AmneziaWG · Xray/VLESS · UFW · Systemd · Cosmos SDK · EVM Nodes · DVT Obol/SSV · Snapshots · Telegram Bot · Let's Encrypt*
 
 </div>
-
-> 💡 *Also: Proxmox · KVM · Hyper-V · iLO/IPMI · RAID · WireGuard · AmneziaWG · Xray/VLESS · UFW · Systemd · Cosmos SDK · EVM Nodes · DVT Obol/SSV · Snapshots · Telegram Bot · Let's Encrypt*
 
 ---
 
@@ -57,7 +59,7 @@
 
 <div align="center">
 
-[![Learning](https://skillicons.dev/icons?i=python,ansible,kubernetes,terraform&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,ansible,kubernetes,terraform&theme=dark&perline=10)](https://skillicons.dev)
 
 </div>
 
