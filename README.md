@@ -1,8 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=120&text=AntNodes&fontSize=50&fontColor=00ff41&fontAlignY=55&desc=Blockchain%20Infrastructure%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descSize=14&descColor=00cc33&descAlignY=80&animation=blinking" />
-</div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=200&section=header&text=AntNodes&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Blockchain%20Infrastructure%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
 
 [![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
 [![Uptime](https://img.shields.io/badge/Uptime-99.9%25-00C851?style=flat-square)](https://github.com/AntNodes)
@@ -10,7 +8,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=AntNodes&color=58a6ff&style=flat-square&label=Views)](https://github.com/AntNodes)
 
 </div>
-
+<
 ---
 
 <img align="right" alt="Mountains" width="340" src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" />
