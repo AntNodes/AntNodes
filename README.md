@@ -1,8 +1,10 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AntNodes;Blockchain+Infrastructure+Engineer;Node+Operator+%C2%B7+Validator+%C2%B7+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AntNodes" alt="AntNodes" />
 </h1>
+
+<p>Blockchain Infrastructure Engineer · Node Operator · DevOps</p>
 
 [![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
 [![Uptime](https://img.shields.io/badge/Uptime-99.9%25-00C851?style=flat-square)](https://github.com/AntNodes)
@@ -13,14 +15,11 @@
 
 ---
 
-<img align="right" alt="Mountains" width="340" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9a1b3f8e-4e5a-4b1a-8c4f-2d3e7f1a9b2c/caucasus-night-pixel.gif?token=placeholder" />
-
-<!-- fallback mountain gif -->
-<img align="right" alt="Caucasus Mountains" width="340" src="https://i.pinimg.com/originals/07/5a/43/075a43b2a80a1738fb37c5e3b9fd940c.gif" />
+<img align="right" alt="Caucasus Mountains" width="340" src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" />
 
 ### 👋 About Me
 
-- 🏔 Based in the **Caucasus region**
+- 🏔 Based in the **Caucasus**
 - 🖥 **Self-hosted bare-metal** infrastructure since 2022
 - ⛓ Active validator — **Nillion, Humanode** mainnets
 - 🤖 **40+ testnets** across Cosmos, EVM, AI ecosystems
@@ -34,67 +33,36 @@
 
 ## 🛠 Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
-**Hypervisors**
-<br/>
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-0078D4?style=flat-square&logo=linux&logoColor=white)
-![HyperV](https://img.shields.io/badge/Hyper--V-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+| Hypervisors | OS & Shell | Containers |
+|:-----------:|:----------:|:----------:|
+| ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white) ![KVM](https://img.shields.io/badge/KVM-0078D4?style=for-the-badge&logo=linux&logoColor=white) ![HyperV](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Compose](https://img.shields.io/badge/Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
-**OS & Shell**
-<br/>
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+| Networking & Security | Monitoring | CI/CD |
+|:--------------------:|:----------:|:-----:|
+| ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![UFW](https://img.shields.io/badge/UFW%2Fiptables-FF6B35?style=for-the-badge&logo=linux&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
 
-</td>
-<td valign="top" width="33%">
+| Blockchain | | |
+|:----------:|:-:|:-:|
+| ![Cosmos](https://img.shields.io/badge/Cosmos_SDK-7B2FBE?style=for-the-badge&logo=cosmos&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white) | | |
 
-**Containers**
-<br/>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Compose](https://img.shields.io/badge/Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**CI/CD**
-<br/>
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Monitoring**
-<br/>
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Networking**
-<br/>
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![UFW](https://img.shields.io/badge/UFW%2Fiptables-FF6B35?style=flat-square&logo=linux&logoColor=white)
-
-**Blockchain**
-<br/>
-![Cosmos](https://img.shields.io/badge/Cosmos_SDK-7B2FBE?style=flat-square&logo=cosmos&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 📚 Learning Roadmap
 
-> Это мой план — то что изучаю и буду изучать для роста в DevOps
+> Изучаю для роста в DevOps
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+</div>
 
 ---
 
@@ -109,20 +77,10 @@
 
 ## 🔵 Active Testnets
 
-| Network | Type | Links |
-|---------|------|-------|
+| Network | Type | Link |
+|---------|------|------|
 | [Nexus](https://app.nexus.xyz) | zkVM Prover | [App →](https://app.nexus.xyz) |
 | [FortyTwo](https://fortytwo.network/) | Node | [Site →](https://fortytwo.network/) |
-| [Gensyn](https://gensyn.ai) | AI Compute | — |
-| [Dria](https://dria.co) | Edge AI Node | — |
-| [Gaia](https://gaianet.ai) | AI Node | — |
-| [Pipe Network](https://pipe.network) | CDN Devnet | — |
-| [Privasea](https://privasea.ai) | Privacy Computing | — |
-| [Dill](https://dill.xyz) | Validator | — |
-| [Obol](https://obol.tech) | DVT / EtherFi | — |
-| [Hemi](https://hemi.xyz) | L2 Node | — |
-| [Irys](https://irys.xyz) | Storage Node | — |
-| [Sonaric](https://sonaric.xyz) | Edge Node | — |
 
 ---
 
