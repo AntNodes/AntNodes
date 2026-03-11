@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=200&section=header&text=AntNodes&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Blockchain%20Infrastructure%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2b1a,100:00C851&height=200&section=header&text=AntNodes&fontSize=60&fontColor=00C851&fontAlignY=38&desc=Blockchain%20Infrastructure%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descAlignY=58&descSize=16&descColor=7dbb8a&animation=fadeIn" />
 
-[![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
+[![Discord](https://img.shields.io/badge/Discord-@AntNodes-00C851?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/863083870626250812)
 [![Uptime](https://img.shields.io/badge/Uptime-99.9%25-00C851?style=flat-square)](https://github.com/AntNodes)
-[![Networks](https://img.shields.io/badge/Networks-40%2B-FF6B35?style=flat-square&logo=ethereum&logoColor=white)](https://github.com/AntNodes)
-[![Profile Views](https://komarev.com/ghpvc/?username=AntNodes&color=58a6ff&style=flat-square&label=Views)](https://github.com/AntNodes)
+[![Networks](https://img.shields.io/badge/Networks-40%2B-00C851?style=flat-square&logo=ethereum&logoColor=white)](https://github.com/AntNodes)
+[![Profile Views](https://komarev.com/ghpvc/?username=AntNodes&color=00C851&style=flat-square&label=Views)](https://github.com/AntNodes)
 
 </div>
-<
+
 ---
 
-<img align="right" alt="Mountains" width="340" src="https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif" />
+<img align="right" alt="Mountains" width="340" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OHZ6dnBkYzRidTdsN2NwZDllNzVmdWFmbGw0YmZ0YWttNXZydHRkaCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" />
 
 ### 👋 About Me
 
@@ -34,7 +34,7 @@
 **Hypervisors & Hardware**
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-0078D4?style=for-the-badge&logo=linux&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-00C851?style=for-the-badge&logo=linux&logoColor=white)
 ![HyperV](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![iLO](https://img.shields.io/badge/iLO%2FIPMI-00A4A6?style=for-the-badge&logo=hp&logoColor=white)
 ![RAID](https://img.shields.io/badge/RAID-555555?style=for-the-badge&logo=linux&logoColor=white)
@@ -42,9 +42,9 @@
 **OS & Shell**
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Systemd](https://img.shields.io/badge/Systemd-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Cron](https://img.shields.io/badge/Cron-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-00C851?style=for-the-badge&logo=gnubash&logoColor=white)
+![Systemd](https://img.shields.io/badge/Systemd-0d2b1a?style=for-the-badge&logo=linux&logoColor=00C851)
+![Cron](https://img.shields.io/badge/Cron-00C851?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Containers**
 
@@ -54,31 +54,31 @@
 **Networking & Security**
 
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![AmneziaWG](https://img.shields.io/badge/AmneziaWG-1a1a2e?style=for-the-badge&logo=wireguard&logoColor=white)
-![Xray](https://img.shields.io/badge/Xray%2FVLESS-000000?style=for-the-badge&logo=v2ray&logoColor=white)
+![AmneziaWG](https://img.shields.io/badge/AmneziaWG-0d2b1a?style=for-the-badge&logo=wireguard&logoColor=00C851)
+![Xray](https://img.shields.io/badge/Xray%2FVLESS-1a1a1a?style=for-the-badge&logo=v2ray&logoColor=00C851)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![UFW](https://img.shields.io/badge/UFW%2Fiptables-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
+![UFW](https://img.shields.io/badge/UFW%2Fiptables-00C851?style=for-the-badge&logo=linux&logoColor=white)
 ![SSL](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![SSH](https://img.shields.io/badge/SSH_Hardening-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH_Hardening-00C851?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Monitoring & CI/CD**
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-00C851?style=for-the-badge&logo=telegram&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Cloud & Hosting**
 
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
-![Bare Metal](https://img.shields.io/badge/Bare_Metal-555555?style=for-the-badge&logo=hp&logoColor=white)
+![Bare Metal](https://img.shields.io/badge/Bare_Metal-0d2b1a?style=for-the-badge&logo=hp&logoColor=00C851)
 
 **Blockchain**
 
 ![Cosmos](https://img.shields.io/badge/Cosmos_SDK-7B2FBE?style=for-the-badge&logo=cosmos&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![DVT](https://img.shields.io/badge/DVT_Obol%2FSSV-5865F2?style=for-the-badge&logo=ethereum&logoColor=white)
+![DVT](https://img.shields.io/badge/DVT_Obol%2FSSV-00C851?style=for-the-badge&logo=ethereum&logoColor=white)
 ![EVM](https://img.shields.io/badge/EVM_Nodes-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Snapshots](https://img.shields.io/badge/Snapshot_Provider-00C851?style=for-the-badge&logo=linux&logoColor=white)
 
@@ -133,11 +133,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AntNodes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntNodes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AntNodes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C851&icon_color=00C851&text_color=c9d1d9&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntNodes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C851&text_color=c9d1d9" height="160"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AntNodes&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=FF6B35&currStreakLabel=58a6ff)](https://github.com/AntNodes)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AntNodes&theme=dark&hide_border=true&background=0d1117&stroke=00C851&ring=00C851&fire=00C851&currStreakLabel=00C851)](https://github.com/AntNodes)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C851,100:0d1117&height=100&section=footer" />
