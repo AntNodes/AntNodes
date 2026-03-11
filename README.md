@@ -1,5 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003300&height=120&text=AntNodes&fontSize=50&fontColor=00ff41&fontAlignY=55&desc=Blockchain%20Infrastructure%20%C2%B7%20Node%20Operator%20%C2%B7%20DevOps&descSize=14&descColor=00cc33&descAlignY=80&animation=blinking" />
+
+## AntNodes
+
+`Blockchain Infrastructure · Node Operator · DevOps`
+
+![line](https://img.shields.io/badge/─────────────────────────────────────────────────────-0d1117?style=flat-square)
+
 </div>
 
 
