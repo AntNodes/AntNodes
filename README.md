@@ -64,7 +64,7 @@
 </tr>
 </table>
 
-<sub>Also: Proxmox · KVM · Hyper-V · iLO/IPMI · RAID · WireGuard · AmneziaWG · Xray/VLESS · UFW · Systemd · Cosmos SDK · EVM Nodes · DVT Obol/SSV · Snapshots · Telegram Bot · Let's Encrypt</sub>
+*Proxmox · KVM · Hyper-V · iLO/IPMI · RAID · WireGuard · AmneziaWG · Xray/VLESS · UFW/iptables · Systemd · Cron · SSH Hardening · Let's Encrypt · Cosmos SDK · EVM Nodes · DVT Obol/SSV · Snapshots · Telegram Bot · Bare Metal · Hetzner VPS*
 
 </div>
 
@@ -74,8 +74,8 @@
 
 <div align="center">
 
-[![](https://skillicons.dev/icons?i=python,kubernetes,terraform,docker&theme=dark&perline=10)](https://skillicons.dev)
-
+[![](https://skillicons.dev/icons?i=python,kubernetes,terraform&theme=dark&perline=10)](https://skillicons.dev)
+&nbsp;
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 </div>
