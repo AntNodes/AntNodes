@@ -64,28 +64,7 @@
 </tr>
 </table>
 
-<details>
-<summary>🔧 More tools & technologies</summary>
-<br/>
-
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-6B7280?style=flat-square&logo=linux&logoColor=white)
-![HyperV](https://img.shields.io/badge/Hyper--V-7B9EC7?style=flat-square&logo=microsoft&logoColor=white)
-![iLO](https://img.shields.io/badge/iLO%2FIPMI-5BC0DE?style=flat-square&logo=hp&logoColor=white)
-![RAID](https://img.shields.io/badge/RAID-9CA3AF?style=flat-square&logo=linux&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-EF5350?style=flat-square&logo=wireguard&logoColor=white)
-![AmneziaWG](https://img.shields.io/badge/AmneziaWG-00C851?style=flat-square&logo=wireguard&logoColor=white)
-![Xray](https://img.shields.io/badge/Xray%2FVLESS-9CA3AF?style=flat-square&logo=v2ray&logoColor=white)
-![UFW](https://img.shields.io/badge/UFW%2Fiptables-FFA726?style=flat-square&logo=linux&logoColor=white)
-![Systemd](https://img.shields.io/badge/Systemd-9CA3AF?style=flat-square&logo=linux&logoColor=white)
-![Cosmos](https://img.shields.io/badge/Cosmos_SDK-CE93D8?style=flat-square&logo=cosmos&logoColor=white)
-![EVM](https://img.shields.io/badge/EVM_Nodes-7B9EC7?style=flat-square&logo=ethereum&logoColor=white)
-![DVT](https://img.shields.io/badge/DVT_Obol%2FSSV-00C851?style=flat-square&logo=ethereum&logoColor=white)
-![Snapshots](https://img.shields.io/badge/Snapshots-00C851?style=flat-square&logo=linux&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-29B6F6?style=flat-square&logo=telegram&logoColor=white)
-![SSL](https://img.shields.io/badge/Let's_Encrypt-42A5F5?style=flat-square&logo=letsencrypt&logoColor=white)
-
-</details>
+<sub>Also: Proxmox · KVM · Hyper-V · iLO/IPMI · RAID · WireGuard · AmneziaWG · Xray/VLESS · UFW · Systemd · Cosmos SDK · EVM Nodes · DVT Obol/SSV · Snapshots · Telegram Bot · Let's Encrypt</sub>
 
 </div>
 
