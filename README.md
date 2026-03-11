@@ -31,23 +31,40 @@
 
 <div align="center">
 
+<table border="0" cellspacing="0" cellpadding="20">
+<tr>
+<td align="center">
+
 **🖥 Hypervisors & OS**
-<br/>
+
 [![](https://skillicons.dev/icons?i=linux,ubuntu,bash,docker&theme=dark&perline=10)](https://skillicons.dev)
 
+</td>
+<td align="center">
+
 **🔐 Networking & Security**
-<br/>
-[![](https://skillicons.dev/icons?i=nginx,cloudflare,githubactions,git&theme=dark&perline=10)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=nginx,cloudflare,git,githubactions&theme=dark&perline=10)](https://skillicons.dev)
+
+</td>
+</tr>
+<tr>
+<td align="center">
 
 **📊 Monitoring & Cloud**
-<br/>
+
 [![](https://skillicons.dev/icons?i=grafana,prometheus,github,hetzner&theme=dark&perline=10)](https://skillicons.dev)
 
+</td>
+<td align="center">
+
 **⛓ Blockchain & Scripting**
-<br/>
+
 [![](https://skillicons.dev/icons?i=solidity,python,nodejs,bash&theme=dark&perline=10)](https://skillicons.dev)
 
-<br/>
+</td>
+</tr>
+</table>
 
 > *Also: Proxmox · KVM · Hyper-V · iLO/IPMI · RAID · WireGuard · AmneziaWG · Xray/VLESS · UFW · Systemd · Cosmos SDK · EVM Nodes · DVT Obol/SSV · Snapshots · Telegram Bot · Let's Encrypt*
 
