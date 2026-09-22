@@ -1,329 +1,154 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111827,100:00C853&height=220&section=header&text=AntNodes&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20%C2%B7%20Agents%20%C2%B7%20Local%20AI%20%C2%B7%20Infrastructure&descAlignY=60&descSize=17&descColor=9ca3af&animation=fadeIn" />
+<img src="./assets/antnodes.svg" width="92" alt="AntNodes">
 
-### Building intelligent automation on self-hosted infrastructure
+# AntNodes
 
-[![Discord](https://img.shields.io/badge/Discord-@AntNodes-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/863083870626250812)
-[![GitHub](https://img.shields.io/badge/GitHub-AntNodes-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AntNodes)
-[![Profile Views](https://komarev.com/ghpvc/?username=AntNodes\&color=00C853\&style=for-the-badge\&label=Views)](https://github.com/AntNodes)
+### DevOps / Infrastructure Engineer
 
-</div>
+**Self-hosted infrastructure · automation · AI systems**
 
----
+<br>
 
-<img align="right" alt="AntNodes Lab" width="360" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Nqd3Njczc3dWVjd3F2NXE2cXJucXR5emd5NjRpZTg3cmp5MHl0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XgLtAJUX0qSmLhWFVM/giphy.gif" />
-
-## 🤖 What I'm Building
-
-I build and experiment with **AI agents, local AI and infrastructure automation**.
-
-My background is in self-hosted infrastructure, Linux, networking, blockchain nodes and automation. I'm now combining that experience with AI to build systems that can **understand, automate and operate infrastructure**.
-
-* 🤖 **AI Agents** — tool use, memory, planning and autonomous workflows
-* 🧠 **Local AI** — local LLMs, inference, RAG and self-hosted models
-* ⚙️ **Automation** — Python, Bash, Ansible and infrastructure workflows
-* 🖥 **Infrastructure** — Linux, bare metal, Docker, virtualization and networking
-* 📊 **Observability** — monitoring, logs, health checks and alerting
-* ⛓ **Blockchain Infrastructure** — validators, nodes and distributed systems
-
-<br clear="right"/>
-
----
-
-## 🧭 From Infrastructure to AI
-
-```text
-                    ANT NODES
-                        │
-                        ▼
-               SELF-HOSTED INFRA
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-        Linux        Networking     Servers
-          │             │             │
-          └─────────────┼─────────────┘
-                        ▼
-                 NODE AUTOMATION
-                        │
-                        ▼
-                  AI AUTOMATION
-                        │
-          ┌─────────────┼─────────────┐
-          ▼             ▼             ▼
-      Local AI      AI Agents       Tools
-          │             │             │
-          └─────────────┼─────────────┘
-                        ▼
-             AUTONOMOUS INFRASTRUCTURE
-```
-
-The direction is simple:
-
-> **Make infrastructure increasingly observable, automated and intelligent.**
-
----
-
-## 🚀 Current Projects
-
-<div align="center">
-
-|                             Project                             | Focus                                                |
-| :-------------------------------------------------------------: | :--------------------------------------------------- |
-|  🤖 **[infra-agent](https://github.com/AntNodes/infra-agent)**  | AI-assisted infrastructure inspection and automation |
-| 🧠 **[local-ai-lab](https://github.com/AntNodes/local-ai-lab)** | Local LLMs, inference, RAG and self-hosted AI        |
-| 🧪 **[ai-agent-lab](https://github.com/AntNodes/ai-agent-lab)** | Agent architectures, tools, memory and experiments   |
-| ⚙️ **[node-manager](https://github.com/AntNodes/node-manager)** | Node lifecycle automation                            |
-|   📡 **[node-monitor-bot](https://github.com/AntNodes/SYNC)**   | Node monitoring and Telegram alerts                  |
+[GitHub](https://github.com/AntNodes) · [Discord](https://discord.com/users/863083870626250812)
 
 </div>
 
 ---
 
-## 🧠 Current Focus
+## PROFILE
 
-<div align="center">
+Infrastructure-focused engineer building and operating **Linux, bare-metal, virtualized and containerized systems** — with a current focus on **automation and AI infrastructure**.
 
-`AI AGENTS` · `LOCAL LLMs` · `MCP` · `RAG` · `TOOL USE` · `AUTOMATION`
-
-</div>
-
-### 🤖 AI Agents
-
-Exploring systems that can:
-
-```text
-Understand
-    ↓
-Plan
-    ↓
-Use Tools
-    ↓
-Observe
-    ↓
-Verify
-    ↓
-Act
-```
-
-The goal is to move beyond simple chat interfaces toward useful, controlled agentic systems.
-
-### 🧠 Local AI
-
-Researching:
-
-* local LLM inference
-* model selection
-* quantization
-* embeddings
-* RAG
-* context management
-* local model serving
-* AI workloads on self-hosted hardware
-
-### ⚙️ AI + Infrastructure
-
-The main intersection I'm interested in:
-
-```text
-             AI AGENT
-                 │
-       ┌─────────┼─────────┐
-       ▼         ▼         ▼
-      SSH      Docker     APIs
-       │         │         │
-       ▼         ▼         ▼
-     Linux    Services   Systems
-       │         │         │
-       └─────────┼─────────┘
-                 ▼
-          REAL INFRASTRUCTURE
-```
+I prefer systems that are **observable, reproducible, secured, and automated**.
 
 ---
 
-## 🛠 Technology
+## ENGINEERING
 
-### 🤖 AI & Automation
-
-[![Python](https://skillicons.dev/icons?i=python\&theme=dark)](https://www.python.org/)
-[![Bash](https://skillicons.dev/icons?i=bash\&theme=dark)](https://www.gnu.org/software/bash/)
-[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge\&logo=ansible\&logoColor=white)](https://www.ansible.com/)
-
-**Agents · LLMs · RAG · MCP · Tool Calling · APIs · Automation**
-
-### 🖥 Infrastructure
-
-[![Linux](https://skillicons.dev/icons?i=linux,ubuntu\&theme=dark)](https://www.linux.org/)
-[![Docker](https://skillicons.dev/icons?i=docker\&theme=dark)](https://www.docker.com/)
-[![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge\&logo=proxmox\&logoColor=white)](https://www.proxmox.com/)
-[![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge\&logo=hetzner\&logoColor=white)](https://www.hetzner.com/)
-
-**Bare Metal · KVM · Hyper-V · iLO/IPMI · RAID · Systemd · Cron · SSH**
-
-### 🌐 Networking & Security
-
-[![Nginx](https://skillicons.dev/icons?i=nginx\&theme=dark)](https://nginx.org/)
-[![Cloudflare](https://skillicons.dev/icons?i=cloudflare\&theme=dark)](https://www.cloudflare.com/)
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions\&theme=dark)](https://github.com/features/actions)
-
-**WireGuard · VPN · Xray/VLESS · UFW/iptables · DNS · Reverse Proxy · SSH Hardening**
-
-### 📊 Observability
-
-[![Grafana](https://skillicons.dev/icons?i=grafana\&theme=dark)](https://grafana.com/)
-[![Prometheus](https://skillicons.dev/icons?i=prometheus\&theme=dark)](https://prometheus.io/)
-
-**Metrics · Logs · Health Checks · Alerting · Telegram**
+| Domain                | Focus                                                           |
+| --------------------- | --------------------------------------------------------------- |
+| **Infrastructure**    | Linux · Bare Metal · Proxmox · KVM · Hyper-V · Hetzner          |
+| **Containers**        | Docker · Compose · containerized workloads                      |
+| **Networking**        | TCP/IP · DNS · Reverse Proxy · WireGuard · Firewalls · SSH      |
+| **Operations**        | systemd · cron · remote management · backups · recovery         |
+| **Observability**     | Prometheus · Grafana · logs · alerts · incident signals         |
+| **Automation**        | Bash · Python · Ansible · GitHub Actions                        |
+| **Platform**          | Kubernetes · infrastructure as code · reproducible environments |
+| **AI Infrastructure** | Local LLMs · inference · RAG · agents · MCP · tool calling      |
 
 ---
 
-## 🧪 AntNodes AI Lab
+## EXPERIENCE
 
-The projects are organized as a progression:
+### 2022 → Present · Self-Hosted Infrastructure
+
+* Built and operated infrastructure across **bare metal and Hetzner**
+* Administered Linux servers, virtualization, storage, networking and remote management
+* Operated infrastructure for blockchain nodes and distributed workloads
+* Participated in **40+ testnets** across Cosmos, EVM and emerging AI ecosystems
+* Built custom tooling for **node lifecycle automation, monitoring and alerting**
+* Maintained operational workflows for repeatable deployment, recovery and observability
+
+The foundation is traditional infrastructure engineering.
+
+The current direction is to make that infrastructure **programmable by automation and AI**.
+
+---
+
+## 2026 FOCUS
 
 ```text
-┌───────────────────────────────────────┐
-│           LOCAL AI LAB                │
-│                                       │
-│ Models · Inference · RAG · Embeddings │
-└──────────────────┬────────────────────┘
-                   │
-                   ▼
-┌───────────────────────────────────────┐
-│           AI AGENT LAB                │
-│                                       │
-│ Tools · Memory · Planning · MCP       │
-└──────────────────┬────────────────────┘
-                   │
-                   ▼
-┌───────────────────────────────────────┐
-│             INFRA AGENT               │
-│                                       │
-│ SSH · Docker · APIs · Monitoring      │
-└──────────────────┬────────────────────┘
-                   │
-                   ▼
-┌───────────────────────────────────────┐
-│        SELF-HOSTED INFRASTRUCTURE     │
-│                                       │
-│ Linux · Servers · Network · Services  │
-└───────────────────────────────────────┘
+INFRASTRUCTURE
+      │
+      ▼
+   AUTOMATION
+      │
+      ▼
+     AI
+      │
+      ▼
+   AI AGENTS
+      │
+      ▼
+ CONTROLLED OPERATIONS
+```
+
+Current areas of exploration:
+
+`Infrastructure Agents` · `Local AI` · `RAG` · `MCP` · `Tool Calling` · `Observability` · `Infrastructure Automation`
+
+The target is not blind autonomy.
+
+The target is **useful, observable and controlled automation**.
+
+---
+
+## SELECTED WORK
+
+### `infra-agent`
+
+AI-assisted infrastructure operations.
+
+→ https://github.com/AntNodes/infra-agent
+
+### `ai-agent-lab`
+
+Experiments with agents, tools, memory and orchestration.
+
+→ https://github.com/AntNodes/ai-agent-lab
+
+### `local-ai-lab`
+
+Local AI environment and model experimentation.
+
+→ https://github.com/AntNodes/local-ai-lab
+
+### `testnet-history`
+
+Historical record of blockchain infrastructure work.
+
+→ https://github.com/AntNodes/testnet-history
+
+### `mainnet-validators`
+
+Validator infrastructure portfolio.
+
+→ https://github.com/AntNodes/mainnet-validators
+
+---
+
+## OPERATING PRINCIPLES
+
+```text
+01  Automate what repeats.
+02  Observe what matters.
+03  Secure before exposing.
+04  Prefer reproducible systems.
+05  Keep humans in control of destructive actions.
 ```
 
 ---
 
-## ⛓ Blockchain Infrastructure
-
-Blockchain infrastructure is where this journey started.
-
-Before working with AI agents and local models, I spent years working with:
-
-* validators
-* full nodes
-* testnets
-* bare-metal servers
-* monitoring
-* networking
-* node automation
-* distributed infrastructure
-
-Historical participation is preserved in:
-
-### 📚 [testnet-history](https://github.com/AntNodes/testnet-history)
-
-A record of previous node and infrastructure participation across Cosmos, EVM, AI and decentralized infrastructure projects.
-
-### 🌐 [mainnet-validators](https://github.com/AntNodes/mainnet-validators)
-
-Current and historical validator infrastructure.
-
-Blockchain remains part of the infrastructure background, while the current focus is shifting toward **AI and automation**.
-
----
-
-## 📚 Infrastructure Knowledge
-
-### [manuals](https://github.com/AntNodes/manuals)
-
-Practical documentation covering:
+## TOOLCHAIN
 
 ```text
-Linux
-Servers
-Networking
-Docker
-Monitoring
-Security
-Automation
-Blockchain Infrastructure
+Linux        Docker        Proxmox
+KVM          Hyper-V       Hetzner
+WireGuard    Nginx         SSH
+Prometheus   Grafana       GitHub Actions
+Bash         Python        Ansible
+Kubernetes   Local LLMs    AI Agents
 ```
-
-The goal is to turn operational experience into reusable engineering knowledge.
-
----
-
-## 🗺️ Roadmap
-
-```text
-2022
- │
- └── Self-hosted infrastructure
-          │
-2023      ▼
- │     Blockchain nodes
- │
-2024      ▼
- │     Node automation
- │
-2025      ▼
- │     AI tooling / local models
- │
-2026      ▼
- └── AI agents + infrastructure automation
-          │
-          ▼
-      Autonomous systems
-```
-
-### Current
-
-* [x] Self-hosted infrastructure
-* [x] Linux / networking
-* [x] Node automation
-* [x] Monitoring
-* [x] Local AI experiments
-* [x] AI agent experiments
-* [ ] Infrastructure AI agent
-* [ ] Local model serving
-* [ ] MCP infrastructure tools
-* [ ] Autonomous infrastructure workflows
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AntNodes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C853&icon_color=00C853&text_color=c9d1d9&count_private=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntNodes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9" height="165"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AntNodes\&theme=dark\&hide_border=true\&background=0d1117\&stroke=00C853\&ring=00C853\&fire=00C853\&currStreakLabel=00C853)](https://github.com/AntNodes)
-
-</div>
 
 ---
 
 <div align="center">
 
-### Building systems that can understand, automate and operate infrastructure.
+### AntNodes
 
-**AI · Automation · Infrastructure**
+`INFRASTRUCTURE  ×  AUTOMATION  ×  AI`
+
+<sub>Build it. Operate it. Automate it.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,50:111827,100:000000&height=110&section=footer" />
