@@ -110,11 +110,6 @@ Historical record of blockchain infrastructure work.
 
 → https://github.com/AntNodes/testnet-history
 
-### `mainnet-validators`
-
-Validator infrastructure portfolio.
-
-→ https://github.com/AntNodes/mainnet-validators
 
 ---
 
