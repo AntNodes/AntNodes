@@ -21,7 +21,7 @@ Currently focused on bringing **AI-assisted automation into real infrastructure*
 
 ### Current Project
 
-**[infra-agent](https://github.com/AntNodes/infra-agent)**
+**[Pixel-Office](https://github.com/AntNodes/pixel-office)**
 
 AI-assisted infrastructure operations — combining system inspection, automation, observability and controlled actions.
 
